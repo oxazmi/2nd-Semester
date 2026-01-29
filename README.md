@@ -1,1 +1,1 @@
-Repositori ini berisi kumpulan tugas pemrograman dari beberapa mata kuliah pada semester 2.
+This repository brings together programming assignments from multiple second-semester courses in a single place, making them easy to browse and revisit. It serves as a centralized reference for reviewing the work completed across those classes.
